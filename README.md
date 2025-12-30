@@ -1,10 +1,16 @@
-# C Programming – 1st Semester
+# Programming Using C – 1st Semester
 
-This repository contains the C programming lab programs for 1st semester.
+This repository contains the **Programming Using C** lab programs for the 1st semester.
 
-Contents:
+## Student Details
+- **Name:** Charan Josh A
+- **Register Number:** 2116250701118
+- **Subject:** Programming Using C
+- **Semester:** 1
+
+## Contents
 - Problem statements
 - C source code
 - Program outputs
 
-Submitted as part of college coursework.
+All programs are compiled and executed as per the prescribed college syllabus and submitted for academic evaluation.
